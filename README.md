@@ -1,6 +1,4 @@
 # Sinusbot Scripts
-#### CI Status:
-<img src="https://git.julian-huebenthal.de/Xuxe/Sinusbot-Scripts/badges/master/build.svg"></img>
 #### LICENSE:
     GNU GENERAL PUBLIC LICENSE
     Version 3, 29 June 2007
